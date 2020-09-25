@@ -22,7 +22,7 @@ Each week class time will be divided into an interactive lecture where we go ove
 
 * 10.12.2020 More on objects/data types, data structures, control flow, basic file I/O
 
-* 10.19.2020 Intro to NumPy, advanced indexing, linear algebra 
+* 10.19.2020 Intro to NumPy, advanced indexing, linear algebra, reading/writing .npy files
 
 * 10.26.2020 Fourier transforms, practice time-frequency analysis using EEG data sets 
 
