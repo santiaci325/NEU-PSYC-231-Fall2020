@@ -20,7 +20,7 @@ Each week class time will be divided into an interactive lecture where we go ove
 ## Topics 
 * 10.05.2020 Intro to Python (iPython), Jupyter Notebooks (environment, magics, markdown), intro to basics of the language
 
-* 10.12.2020 More on objects/data types, data structures, control flow
+* 10.12.2020 More on objects/data types, data structures, control flow, basic file I/O
 
 * 10.19.2020 Intro to NumPy, advanced indexing, linear algebra 
 
