@@ -26,7 +26,7 @@ Each week class time will be divided into an interactive lecture where we go ove
 
 * 10.26.2020 Fourier transforms, practice time-frequency analysis using EEG data sets 
 
-* 11.02.2020 Intro to non-parametric statistics (randomization testing and bootstrapping) or Intro to Bayesian models of perceptual inference
+* 11.02.2020 Intro to Bayesian models of perceptual inference OR Non-parametric statistics (randomization testing and bootstrapping)
 
 * 11.09.2020 Intro to machine learning/pattern recognition (Mahalanobis Distance and Support Vector Machines) 
 
@@ -34,8 +34,6 @@ Each week class time will be divided into an interactive lecture where we go ove
 
 * 11.23.2020 No class
 
-11.30.2020 Entropy/Mutual Information/Kernel Density Estimation (KDE)
+* 11.30.2020 Entropy/Mutual Information/Kernel Density Estimation (KDE)
 
 * 12.07.2020 Filtering and time-series processing (including more advanced applications of the FFT)
-
-* xx.xx.2020 
