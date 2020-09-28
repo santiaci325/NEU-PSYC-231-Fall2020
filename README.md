@@ -17,6 +17,9 @@ At the end of the course you should have a good working understanding of Python,
 ## Class time
 Each week class time will be divided into an interactive lecture where we go over a topic and write some code together to demonstrate the functionality of a package (e.g. NumPy) or to learn an analysis technique (e.g. FFT). Then you will work in groups on a problem set related to the topics covered in the course.
 
+## Grading
+This class is designed to provide a low-barrier, low-stress introduction to programming. You will get out of it what you put into it. My only requirement is that you turn in a zip file with your notebooks at the end of the quarter. You are free to work on these in groups (I encourage this!) and don't worry about making mistakes. There will be lots of those this quarter.  
+
 ## Topics 
 * 10.05.2020 Intro to Python (iPython), Jupyter Notebooks (environment, magics, markdown), intro to basics of the language
 
