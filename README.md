@@ -1,8 +1,8 @@
 # NEU-PSYC-231-Fall2020: Tools for Experimental Data Analysis 
 
-Instructor: John Serences
+Instructors: John Serences and Andrew Bender
 
-Time/Location: TBD 
+Time/Location: 1-3:50 virtual... 
 
 ## Course description
 This course will introduce a set of commonly used data analysis methods implemented in Python using Jupyter Notebooks. 
